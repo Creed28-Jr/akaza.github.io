@@ -1,2 +1,2 @@
 # akaza.github.io
-AI assignment assignedd by lecturer Chacha
+AI assignment assigned by lecturer Chacha
